@@ -29,5 +29,5 @@
 
 
 Whatsapp: 081 9 9771-3699 <br>
-E-mail: viniciuscontabilidade5@gmail.com
+E-mail: viniciuseustaquio.dev@gmail.com
 
