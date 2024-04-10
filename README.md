@@ -24,10 +24,7 @@
 
 <p><strong>Atualmente estou estudando e aprendendo novas tecnologias e louco para praticar tudo que estou aprendendo em um ambiente comercial. </strong></p>
 
-<div style="display: inline_block" >
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](viniciuseustaquio.dev@gmail.com)
+Whatsapp: 081 9 9771-3699
+E-mail: viniciuscontabilidade5@gmail.com
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](081-9-99771-3699)
-
-</div>
