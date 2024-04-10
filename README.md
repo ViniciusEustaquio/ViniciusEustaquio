@@ -24,7 +24,10 @@
 
 <p><strong>Atualmente estou estudando e aprendendo novas tecnologias e louco para praticar tudo que estou aprendendo em um ambiente comercial. </strong></p>
 
+<br>
+<br>
 
-Whatsapp: 081 9 9771-3699
+
+Whatsapp: 081 9 9771-3699 <br>
 E-mail: viniciuscontabilidade5@gmail.com
 
