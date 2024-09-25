@@ -26,7 +26,7 @@
 
 .
 
-<p><strong>Atualmente estou estudando e aprendendo novas tecnologias e louco para praticar tudo que estou aprendendo em um ambiente comercial. </strong></p>
+<p><strong> Cada dia me capacito mais e mais para conquistar meus objetivos. </strong></p>
 
 <br>
 <br>
